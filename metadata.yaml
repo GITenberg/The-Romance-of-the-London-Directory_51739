@@ -1,5 +1,8 @@
 _repo: The-Romance-of-the-London-Directory_51739
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 51739-h/images/coverb.jpg
 creator:
   author:
     agent_name: Bardsley, Charles Wareing Endell
@@ -11,6 +14,8 @@ creator:
     gutenberg_agent_id: '39939'
     url: http://www.gutenberg.org/2009/agents/39939
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51739#The-Romance-of-the-London-Directory
 gutenberg_issued: '2016-04-12'
 gutenberg_type: Text
 identifiers:
